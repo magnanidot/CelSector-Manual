@@ -1,5 +1,5 @@
 # Playing this Manual
-The intended way to play this manual is using the save file provided. While you can technically use any 100% save file, the save provided is edited to have all items owned while still having the collectibles be present on the map, otherwise none of the clothing and weapon boxes will be present. The default save location is C:\Users\<YourUsername>\AppData\LocalLow\YumamiSoft\CelSector\ you might need to run the game at least once for the path to be created, if you wish to keep your original save dont forget to backup the Persistent.save file in said folder.
+The intended way to play this manual is using the save file provided. While you can technically use any 100% save file, the save provided is edited to have all items owned while still having the collectibles be present on the map, otherwise none of the clothing and weapon boxes will be present. The default save location is C:\Users\YourUsername\AppData\LocalLow\YumamiSoft\CelSector\ you might need to run the game at least once for the path to be created, if you wish to keep your original save dont forget to backup the Persistent.save file in said folder.
 
 For help with general Archipelago setup search the oficial Manual for Archipelago [Discord](https://discord.gg/ptmNTJkVZ) or [GitHub](https://github.com/ManualForArchipelago/Manual/tree/main) page.
 
