@@ -23,6 +23,9 @@
     {"items": ["Carbine (Weapon 4 Slot 2)"], "yaml_option": ["gun4_2"]},
     {"items": ["Machine Gun (Weapon 4 Slot 3)"], "yaml_option": ["gun4_3"]},
     {"items": ["Sniper Rifle (Weapon 5 Slot 1)"], "yaml_option": ["gun5_1"]},
-    {"items": ["M1 Garand (Weapon 5 Slot 2)"], "yaml_option": ["gun5_2"]}
+    {"items": ["M1 Garand (Weapon 5 Slot 2)"], "yaml_option": ["gun5_2"]},
+    {"items": ["Clothing Preset A"]},
+    {"items": ["Front Hair Slot 1"]},
+    {"items": ["Back Hair Slot 17"]}
   ]
 }
